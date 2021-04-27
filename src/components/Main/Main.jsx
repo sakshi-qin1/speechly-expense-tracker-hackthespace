@@ -19,7 +19,7 @@ const Main = () => {
 
   return (
     <Card className={classes.root}>
-      <CardHeader title="Expense Tracker" subheader="Made by Zaki" />
+      <CardHeader title="Expense Tracker" subheader="Made with Speechly" />
       <CardContent>
         <Typography variant="h5" align="center">
           Total Balance : ${balance}
